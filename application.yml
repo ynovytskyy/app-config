@@ -17,5 +17,5 @@ spring: # <---NEW SECTION
       registrationMethod: direct
       
 ribbon:
-  IsSecure: false
+  IsSecure: true
   
