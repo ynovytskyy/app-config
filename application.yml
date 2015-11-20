@@ -15,3 +15,7 @@ spring: # <---NEW SECTION
   cloud:
     services:
       registrationMethod: direct
+
+ribbon:
+  IsSecure: false
+  
