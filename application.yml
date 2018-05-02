@@ -20,5 +20,4 @@ ribbon: # <---NEW SECTION
   IsSecure: false
 
 test:
-  setting: test-setting-value-from-app-config-yml
-  
+  setting: test-setting-value-from-config-server-app-config-yml
