@@ -19,5 +19,4 @@ spring: # <---NEW SECTION
 ribbon: # <---NEW SECTION
   IsSecure: false
 
-test:
-  setting: test-setting-value-from-config-server-app-config-yml-updated2
+test: test-setting-value-from-config-server-application-yml
